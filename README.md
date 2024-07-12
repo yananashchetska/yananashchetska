@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Yana Nashchetska</h1>
-<h3 align="center">A passionate frontend developer and designer from Ukraine, Lviv</h3>
+<h1 align="center">Hi, I'm Yana Nashchetska 👋</h1>
+<h3 align="center">A passionate Frontend Developer from Lviv, Urkaine </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yananashchetska&label=Profile%20views&color=0e75b6&style=flat" alt="yananashchetska" /> </p>
 
-- 🌱 I’m currently learning **vanilla JS, DOM manipulations**
+- 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **layout projects**
 
-- 🤝 I’m looking for help with **JavaScript**
+- 🤝 I’m looking for help with **JavaScript | React**
 
 - 📫 How to reach me **yananashchetska@gmail.com**
 
