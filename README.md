@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Yana Nashchetska 👋</h1>
 <h3 align="center">A passionate Frontend Developer from Lviv, Urkaine </h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js** and **TypeScript**
 
 - 👯 I’m looking to collaborate on **layout projects**
 
-- 🤝 I’m looking for help with **JavaScript | React**
+- 🤝 I’m looking for help with **JavaScript | React | TypeScript**
 
 - 📫 How to reach me **yananashchetska@gmail.com**
 
